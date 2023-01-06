@@ -16,6 +16,6 @@ Here is a list of the programs included in this repository:
 If you have any suggestions for additional programs or improvements to the existing ones, please feel free to submit a pull request. We welcome contributions from the community to make these programs as useful and helpful as possible for Python learners.
 
 ## License
-This repository is licensed under the MIT License. See the (LICENSE)[https://chat.openai.com/chat/LICENSE] file for details.
+This repository is licensed under the MIT License. See the [LICENSE](https://chat.openai.com/chat/LICENSE) file for details.
 
 
