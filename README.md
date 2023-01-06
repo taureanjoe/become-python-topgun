@@ -1,0 +1,1 @@
+[<img src="https://deepnote.com/buttons/launch-in-deepnote-white.svg">](https://deepnote.com/workspace/first-deepnote-workspace-130b-297bd54c-f5b0-4352-b003-c615e173bed6/project/100-Projects-in-Python-2af8f639-c00a-450b-9c71-68fde2e9f6e8)
