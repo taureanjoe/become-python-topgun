@@ -14,7 +14,7 @@ attempts = 6
 while attempts > 0:
     # Create a string with the correctly guessed letters
     current_word = ""
-    for letter in word:
+    for letter in word: 
         if letter in guessed_letters:
             current_word += letter
         else:
