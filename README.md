@@ -10,6 +10,11 @@ Welcome to "100 Short Python Programs for Easy Learning"! This repository contai
 Here is a list of the programs included in this repository:
 
 1. Remove Image Background
+2. Text to speech
+3. World Time
+4. Hangman Game
+5. Ice Cream Truck Simulator
+6. Caesar Cipher (Encryptor & Decryptor)
 
 ## Contributing
 
